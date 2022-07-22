@@ -1,1 +1,1 @@
-document.write("<script>alert()</script>")
+document.write("<button onclick='alert()'></button>")
