@@ -1,2 +1,1 @@
-setInnerText(document.getElementById("log"),  
-          "hello");
+document.getElementById("log").innerHTML="hello";
