@@ -1,1 +1,1 @@
-document.getElementById("log").innerHTML="hello";
+document.write("hello")
