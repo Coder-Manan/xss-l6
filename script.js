@@ -1,1 +1,1 @@
-this.innerHTML="<button onclick='alert()'></button>"
+this.onclick = function(){alert()};
