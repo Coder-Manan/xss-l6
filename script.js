@@ -1,2 +1,2 @@
-setInnerText(document.getElementById("script"),  
+setInnerText(document.getElementById("log"),  
           "hello");
