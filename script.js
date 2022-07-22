@@ -1,1 +1,2 @@
-this.innerHTML = "<p>hello</p>";
+setInnerText(document.getElementById("script"),  
+          "hello");
