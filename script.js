@@ -1,1 +1,1 @@
-document.write("<button onclick='alert()'></button>")
+this.innerHTML="<button onclick='alert()'></button>"
