@@ -1,1 +1,1 @@
-this.onclick = function(){alert()};
+this.innerHTML = "<p>hello</p>"l
